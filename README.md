@@ -18,4 +18,4 @@
 
 ## Resultados
 
- Com os dados gerados, criou-se um mapa contendo a distrubuição dos genes de resistência em 12 diferentes localizações do território brasileiro. Cada circulo representa a localização da amostra, os números em seu interior representam a quantidade de genes de resistência. Ao clicar nesses circulos, os pontos coloridos que aparecem representam diferentes classes de genes de resistência.
+ Com os dados gerados, criou-se um mapa contendo a distrubuição dos genes de resistência em 12 diferentes localizações do território brasileiro. Cada circulo representa a localização da amostra, os números em seu interior representam a quantidade de genes de resistência. Ao clicar nesses circulos, os pontos coloridos que aparecem representam diferentes classes de genes de resistência. O mapa pode ser encontrado em: https://fmpds.github.io/AntibioticResistanceMap/.
